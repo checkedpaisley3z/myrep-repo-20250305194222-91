@@ -7,8 +7,8 @@ contract MyToken_0 {
     string public message;
 
     constructor() {
-        randomNumber = 99;
-        message = "Hello from commit 0 - 2025-03-05 19:42:26";
+        randomNumber = 6;
+        message = "Hello from commit 0 - 2025-03-05 19:42:30";
     }
 
     function getMessage() public view returns (string) {
